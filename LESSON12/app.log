@@ -1,0 +1,218 @@
+2024-11-25 13:37:16,600 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-25 13:37:16,601 INFO [33mPress CTRL+C to quit[0m
+2024-11-25 13:37:16,604 INFO  * Restarting with stat
+2024-11-25 13:37:17,348 WARNING  * Debugger is active!
+2024-11-25 13:37:17,352 INFO  * Debugger PIN: 284-043-340
+2024-11-25 16:17:40,316 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-25 16:17:40,316 INFO [33mPress CTRL+C to quit[0m
+2024-11-25 16:17:40,317 INFO  * Restarting with stat
+2024-11-25 16:17:41,035 WARNING  * Debugger is active!
+2024-11-25 16:17:41,040 INFO  * Debugger PIN: 284-043-340
+2024-11-25 16:24:24,814 INFO  * Detected change in 'C:\\Users\\vante\\LESSON12\\celery_config.py', reloading
+2024-11-25 16:24:25,024 INFO  * Restarting with stat
+2024-11-25 16:24:26,277 WARNING  * Debugger is active!
+2024-11-25 16:24:26,280 INFO  * Debugger PIN: 284-043-340
+2024-11-25 16:24:40,787 INFO  * Detected change in 'C:\\Users\\vante\\LESSON12\\logging_config.py', reloading
+2024-11-25 16:24:40,926 INFO  * Restarting with stat
+2024-11-25 16:24:42,308 WARNING  * Debugger is active!
+2024-11-25 16:24:42,311 INFO  * Debugger PIN: 284-043-340
+2024-11-25 16:25:16,740 INFO  * Detected change in 'C:\\Users\\vante\\LESSON12\\app.py', reloading
+2024-11-25 16:25:16,845 INFO  * Restarting with stat
+2024-11-25 16:25:17,838 INFO: Logging is configured and ready!
+2024-11-25 16:25:17,859 WARNING:  * Debugger is active!
+2024-11-25 16:25:17,862 INFO:  * Debugger PIN: 284-043-340
+2024-11-25 16:27:51,476 INFO: Logging is configured and ready!
+2024-11-25 16:27:51,511 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-25 16:27:51,512 INFO: [33mPress CTRL+C to quit[0m
+2024-11-25 16:27:51,514 INFO:  * Restarting with stat
+2024-11-25 16:27:52,203 INFO: Logging is configured and ready!
+2024-11-25 16:27:52,224 WARNING:  * Debugger is active!
+2024-11-25 16:27:52,228 INFO:  * Debugger PIN: 284-043-340
+2024-11-25 16:30:19,584 INFO: Logging is configured and ready!
+2024-11-25 16:30:19,622 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-25 16:30:19,622 INFO: [33mPress CTRL+C to quit[0m
+2024-11-25 16:30:19,624 INFO:  * Restarting with stat
+2024-11-25 16:30:20,286 INFO: Logging is configured and ready!
+2024-11-25 16:30:20,300 WARNING:  * Debugger is active!
+2024-11-25 16:30:20,303 INFO:  * Debugger PIN: 284-043-340
+2024-11-25 16:36:05,032 INFO: Logging is configured and ready!
+2024-11-25 16:36:05,075 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-25 16:36:05,075 INFO: [33mPress CTRL+C to quit[0m
+2024-11-25 16:36:05,077 INFO:  * Restarting with stat
+2024-11-25 16:36:05,813 INFO: Logging is configured and ready!
+2024-11-25 16:36:05,832 WARNING:  * Debugger is active!
+2024-11-25 16:36:05,835 INFO:  * Debugger PIN: 284-043-340
+2024-11-25 16:41:30,004 INFO: Logging is configured and ready!
+2024-11-25 16:41:30,043 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-25 16:41:30,043 INFO: [33mPress CTRL+C to quit[0m
+2024-11-25 16:41:30,048 INFO:  * Restarting with stat
+2024-11-25 16:41:30,764 INFO: Logging is configured and ready!
+2024-11-25 16:41:30,791 WARNING:  * Debugger is active!
+2024-11-25 16:41:30,797 INFO:  * Debugger PIN: 284-043-340
+2024-11-25 16:44:41,679 INFO: Logging is configured and ready!
+2024-11-25 16:44:41,898 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-25 16:44:41,898 INFO: [33mPress CTRL+C to quit[0m
+2024-11-25 16:44:41,906 INFO:  * Restarting with stat
+2024-11-25 16:44:42,554 INFO: Logging is configured and ready!
+2024-11-25 16:44:42,571 WARNING:  * Debugger is active!
+2024-11-25 16:44:42,576 INFO:  * Debugger PIN: 284-043-340
+2024-11-25 16:45:47,364 INFO: Logging is configured and ready!
+2024-11-25 16:45:47,406 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-25 16:45:47,406 INFO: [33mPress CTRL+C to quit[0m
+2024-11-25 16:45:47,408 INFO:  * Restarting with stat
+2024-11-25 16:45:48,110 INFO: Logging is configured and ready!
+2024-11-25 16:45:48,131 WARNING:  * Debugger is active!
+2024-11-25 16:45:48,136 INFO:  * Debugger PIN: 284-043-340
+2024-11-25 16:47:00,683 INFO: Logging is configured and ready!
+2024-11-25 16:47:00,711 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-25 16:47:00,711 INFO: [33mPress CTRL+C to quit[0m
+2024-11-25 16:47:00,712 INFO:  * Restarting with stat
+2024-11-25 16:47:01,419 INFO: Logging is configured and ready!
+2024-11-25 16:47:01,438 WARNING:  * Debugger is active!
+2024-11-25 16:47:01,441 INFO:  * Debugger PIN: 284-043-340
+2024-11-25 16:56:49,063 INFO: Logging is configured and ready!
+2024-11-25 16:56:49,102 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-25 16:56:49,102 INFO: [33mPress CTRL+C to quit[0m
+2024-11-25 16:56:49,104 INFO:  * Restarting with stat
+2024-11-25 16:56:49,797 INFO: Logging is configured and ready!
+2024-11-25 16:56:49,821 WARNING:  * Debugger is active!
+2024-11-25 16:56:49,825 INFO:  * Debugger PIN: 584-768-660
+2024-11-25 16:57:32,378 INFO: 127.0.0.1 - - [25/Nov/2024 16:57:32] "GET / HTTP/1.1" 200 -
+2024-11-25 16:58:54,767 INFO:  * Detected change in 'C:\\Users\\vante\\LESSON12\\app.py', reloading
+2024-11-25 16:58:54,862 INFO:  * Restarting with stat
+2024-11-25 16:58:56,130 INFO: Logging is configured and ready!
+2024-11-25 16:58:56,151 WARNING:  * Debugger is active!
+2024-11-25 16:58:56,157 INFO:  * Debugger PIN: 584-768-660
+2024-11-25 16:59:04,500 INFO:  * Detected change in 'C:\\Users\\vante\\LESSON12\\celery_config.py', reloading
+2024-11-25 16:59:04,579 INFO:  * Restarting with stat
+2024-11-25 16:59:05,760 INFO: Logging is configured and ready!
+2024-11-25 16:59:05,784 WARNING:  * Debugger is active!
+2024-11-25 16:59:05,789 INFO:  * Debugger PIN: 584-768-660
+2024-11-25 16:59:13,045 INFO:  * Detected change in 'C:\\Users\\vante\\LESSON12\\logging_config.py', reloading
+2024-11-25 16:59:13,120 INFO:  * Restarting with stat
+2024-11-25 16:59:13,780 INFO: Logging is configured and ready.
+2024-11-25 16:59:13,800 WARNING:  * Debugger is active!
+2024-11-25 16:59:13,806 INFO:  * Debugger PIN: 584-768-660
+2024-11-25 17:01:12,112 INFO: Logging is configured and ready.
+2024-11-25 17:01:12,151 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-25 17:01:12,151 INFO: [33mPress CTRL+C to quit[0m
+2024-11-25 17:01:12,158 INFO:  * Restarting with stat
+2024-11-25 17:01:12,858 INFO: Logging is configured and ready.
+2024-11-25 17:01:12,877 WARNING:  * Debugger is active!
+2024-11-25 17:01:12,881 INFO:  * Debugger PIN: 584-768-660
+2024-11-25 17:01:22,680 INFO: 127.0.0.1 - - [25/Nov/2024 17:01:22] "GET / HTTP/1.1" 200 -
+2024-11-25 17:03:43,031 INFO: 127.0.0.1 - - [25/Nov/2024 17:03:43] "GET /items HTTP/1.1" 200 -
+2024-11-25 17:05:31,229 ERROR: 404 Error: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2024-11-25 17:05:31,230 INFO: 127.0.0.1 - - [25/Nov/2024 17:05:31] "[33mGET /items/item%20-H%20"Content-Type:%20application/json"%20-d%20'{"name":%20"Item1"}' HTTP/1.1[0m" 404 -
+2024-11-25 17:05:37,626 ERROR: 404 Error: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2024-11-25 17:05:37,627 INFO: 127.0.0.1 - - [25/Nov/2024 17:05:37] "[33mGET /item%20-H%20"Content-Type:%20application/json"%20-d%20'{"name":%20"Item1"}' HTTP/1.1[0m" 404 -
+2024-11-25 17:11:26,144 INFO: 127.0.0.1 - - [25/Nov/2024 17:11:26] "GET / HTTP/1.1" 200 -
+2024-11-25 17:11:53,348 INFO: 127.0.0.1 - - [25/Nov/2024 17:11:53] "GET / HTTP/1.1" 200 -
+2024-11-25 17:12:24,202 ERROR: 404 Error: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2024-11-25 17:12:24,203 INFO: 127.0.0.1 - - [25/Nov/2024 17:12:24] "[33mGET /items%0A HTTP/1.1[0m" 404 -
+2024-11-25 17:12:40,556 ERROR: 404 Error: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2024-11-25 17:12:40,556 INFO: 127.0.0.1 - - [25/Nov/2024 17:12:40] "[33mGET /items%0A HTTP/1.1[0m" 404 -
+2024-11-25 17:13:04,072 ERROR: 404 Error: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2024-11-25 17:13:04,072 INFO: 127.0.0.1 - - [25/Nov/2024 17:13:04] "[33mPOST /item%0A HTTP/1.1[0m" 404 -
+2024-11-25 17:13:06,629 ERROR: 404 Error: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2024-11-25 17:13:06,630 INFO: 127.0.0.1 - - [25/Nov/2024 17:13:06] "[33mPOST /item%0A HTTP/1.1[0m" 404 -
+2024-11-25 17:13:08,544 ERROR: 404 Error: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2024-11-25 17:13:08,545 INFO: 127.0.0.1 - - [25/Nov/2024 17:13:08] "[33mPOST /item%0A HTTP/1.1[0m" 404 -
+2024-11-25 17:14:44,319 ERROR: 404 Error: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2024-11-25 17:14:44,320 INFO: 127.0.0.1 - - [25/Nov/2024 17:14:44] "[33mPOST /item%0A HTTP/1.1[0m" 404 -
+2024-11-25 17:16:57,841 INFO: Logging is configured and ready.
+2024-11-25 17:16:57,891 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-25 17:16:57,891 INFO: [33mPress CTRL+C to quit[0m
+2024-11-25 17:16:57,894 INFO:  * Restarting with stat
+2024-11-25 17:16:58,873 INFO: Logging is configured and ready.
+2024-11-25 17:16:58,892 WARNING:  * Debugger is active!
+2024-11-25 17:16:58,897 INFO:  * Debugger PIN: 584-768-660
+2024-11-25 17:18:15,209 INFO: 127.0.0.1 - - [25/Nov/2024 17:18:15] "[35m[1mPOST /item HTTP/1.1[0m" 201 -
+2024-11-25 17:19:50,068 ERROR: 404 Error: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2024-11-25 17:19:50,069 INFO: 127.0.0.1 - - [25/Nov/2024 17:19:50] "[33mGET /items%0A HTTP/1.1[0m" 404 -
+2024-11-25 17:20:03,832 ERROR: 404 Error: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2024-11-25 17:20:03,832 INFO: 127.0.0.1 - - [25/Nov/2024 17:20:03] "[33mGET /items%0A HTTP/1.1[0m" 404 -
+2024-11-25 17:20:26,130 INFO: Logging is configured and ready.
+2024-11-25 17:20:26,180 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-25 17:20:26,180 INFO: [33mPress CTRL+C to quit[0m
+2024-11-25 17:20:26,182 INFO:  * Restarting with stat
+2024-11-25 17:20:26,952 INFO: Logging is configured and ready.
+2024-11-25 17:20:26,975 WARNING:  * Debugger is active!
+2024-11-25 17:20:26,978 INFO:  * Debugger PIN: 584-768-660
+2024-11-25 17:20:38,409 ERROR: 404 Error: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2024-11-25 17:20:38,410 INFO: 127.0.0.1 - - [25/Nov/2024 17:20:38] "[33mGET /items%0A HTTP/1.1[0m" 404 -
+2024-11-25 17:21:40,588 ERROR: 404 Error: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2024-11-25 17:21:40,589 INFO: 127.0.0.1 - - [25/Nov/2024 17:21:40] "[33mPUT /item/0%0A HTTP/1.1[0m" 404 -
+2024-11-25 17:22:55,569 ERROR: 404 Error: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2024-11-25 17:22:55,569 INFO: 127.0.0.1 - - [25/Nov/2024 17:22:55] "[33mGET /items%0A HTTP/1.1[0m" 404 -
+2024-11-25 17:24:26,858 INFO: Logging is configured and ready.
+2024-11-25 17:24:26,900 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-25 17:24:26,900 INFO: [33mPress CTRL+C to quit[0m
+2024-11-25 17:24:26,904 INFO:  * Restarting with stat
+2024-11-25 17:24:27,704 INFO: Logging is configured and ready.
+2024-11-25 17:24:27,726 WARNING:  * Debugger is active!
+2024-11-25 17:24:27,730 INFO:  * Debugger PIN: 584-768-660
+2024-11-25 17:25:01,114 ERROR: 404 Error: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2024-11-25 17:25:01,115 INFO: 127.0.0.1 - - [25/Nov/2024 17:25:01] "[33mGET /items%0A HTTP/1.1[0m" 404 -
+2024-11-25 17:25:33,478 INFO: Logging is configured and ready.
+2024-11-25 17:25:33,512 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-25 17:25:33,512 INFO: [33mPress CTRL+C to quit[0m
+2024-11-25 17:25:33,515 INFO:  * Restarting with stat
+2024-11-25 17:25:34,229 INFO: Logging is configured and ready.
+2024-11-25 17:25:34,245 WARNING:  * Debugger is active!
+2024-11-25 17:25:34,248 INFO:  * Debugger PIN: 584-768-660
+2024-11-25 17:25:47,028 INFO: 127.0.0.1 - - [25/Nov/2024 17:25:47] "GET / HTTP/1.1" 200 -
+2024-11-25 17:26:58,707 ERROR: 404 Error: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2024-11-25 17:26:58,707 INFO: 127.0.0.1 - - [25/Nov/2024 17:26:58] "[33mGET /items%0A HTTP/1.1[0m" 404 -
+2024-11-25 17:28:42,820 ERROR: 404 Error: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2024-11-25 17:28:42,821 INFO: 127.0.0.1 - - [25/Nov/2024 17:28:42] "[33mGET /items%0A HTTP/1.1[0m" 404 -
+2024-11-25 17:28:57,054 INFO: 127.0.0.1 - - [25/Nov/2024 17:28:57] "GET /items HTTP/1.1" 200 -
+2024-11-25 17:29:39,257 ERROR: 404 Error: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2024-11-25 17:29:39,258 INFO: 127.0.0.1 - - [25/Nov/2024 17:29:39] "[33mGET /items%0A HTTP/1.1[0m" 404 -
+2024-11-25 17:31:07,537 INFO:  * Detected change in 'C:\\Users\\vante\\LESSON12\\app.py', reloading
+2024-11-25 17:31:07,704 INFO:  * Restarting with stat
+2024-11-25 17:31:09,157 INFO: Logging is configured and ready.
+2024-11-25 17:31:09,216 WARNING:  * Debugger is active!
+2024-11-25 17:31:09,226 INFO:  * Debugger PIN: 584-768-660
+2024-11-25 17:31:40,436 INFO:  * Detected change in 'C:\\Users\\vante\\LESSON12\\app.py', reloading
+2024-11-25 17:31:40,522 INFO:  * Restarting with stat
+2024-11-25 17:31:41,129 INFO: Logging is configured and ready.
+2024-11-25 17:31:41,146 WARNING:  * Debugger is active!
+2024-11-25 17:31:41,149 INFO:  * Debugger PIN: 584-768-660
+2024-11-25 17:31:55,116 INFO: Logging is configured and ready.
+2024-11-25 17:31:55,155 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-25 17:31:55,156 INFO: [33mPress CTRL+C to quit[0m
+2024-11-25 17:31:55,159 INFO:  * Restarting with stat
+2024-11-25 17:31:55,970 INFO: Logging is configured and ready.
+2024-11-25 17:31:55,987 WARNING:  * Debugger is active!
+2024-11-25 17:31:55,991 INFO:  * Debugger PIN: 584-768-660
+2024-11-25 17:32:11,955 INFO: 127.0.0.1 - - [25/Nov/2024 17:32:11] "GET /items HTTP/1.1" 200 -
+2024-11-25 17:33:31,164 ERROR: 404 Error: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2024-11-25 17:33:31,165 INFO: 127.0.0.1 - - [25/Nov/2024 17:33:31] "[33mPOST /item%0A HTTP/1.1[0m" 404 -
+2024-11-25 17:35:29,208 ERROR: 404 Error: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2024-11-25 17:35:29,210 INFO: 127.0.0.1 - - [25/Nov/2024 17:35:29] "[33mPOST /item%0A HTTP/1.1[0m" 404 -
+2024-11-25 17:36:31,722 INFO: 127.0.0.1 - - [25/Nov/2024 17:36:31] "[35m[1mPOST /item HTTP/1.1[0m" 201 -
+2024-11-25 17:37:57,379 INFO: 127.0.0.1 - - [25/Nov/2024 17:37:57] "PUT /item/0 HTTP/1.1" 200 -
+2024-11-25 17:38:31,468 INFO: 127.0.0.1 - - [25/Nov/2024 17:38:31] "DELETE /item/0 HTTP/1.1" 200 -
+2024-11-25 17:39:24,278 INFO: 127.0.0.1 - - [25/Nov/2024 17:39:24] "[35m[1mPOST /task/add HTTP/1.1[0m" 202 -
+2024-11-25 17:42:03,603 ERROR: 404 Error: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2024-11-25 17:42:03,604 INFO: 127.0.0.1 - - [25/Nov/2024 17:42:03] "[33mGET /invalid-route HTTP/1.1[0m" 404 -
+2024-11-25 17:42:19,599 INFO: 127.0.0.1 - - [25/Nov/2024 17:42:19] "GET /items HTTP/1.1" 200 -
+2024-11-25 17:42:42,767 ERROR: 404 Error: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2024-11-25 17:42:42,767 INFO: 127.0.0.1 - - [25/Nov/2024 17:42:42] "[33mGET /invalid-route HTTP/1.1[0m" 404 -
